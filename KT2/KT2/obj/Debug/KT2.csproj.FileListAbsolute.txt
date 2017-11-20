@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\KT2\KT2\bin\Debug\KT2.exe.config
+C:\Users\admin\source\repos\KT2\KT2\bin\Debug\KT2.exe
+C:\Users\admin\source\repos\KT2\KT2\bin\Debug\KT2.pdb
+C:\Users\admin\source\repos\KT2\KT2\obj\Debug\KT2.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\KT2\KT2\obj\Debug\KT2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KT2\KT2\obj\Debug\KT2.exe
+C:\Users\admin\source\repos\KT2\KT2\obj\Debug\KT2.pdb
